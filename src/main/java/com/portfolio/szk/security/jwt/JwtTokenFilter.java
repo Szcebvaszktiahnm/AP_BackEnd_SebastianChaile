@@ -26,14 +26,14 @@ import java.io.IOException;
 
 
 public class JwtTokenFilter extends OncePerRequestFilter{
-            private final static Logger logger = LoggerFactory.getLogger(JwtTokenFilter.class);
+    private final static Logger logger = LoggerFactory.getLogger(JwtTokenFilter.class);
             //private final static Logger logger = LoggerFactory.getLogger(JwtProvider.class);
             
             
-            @Autowired
-            JwtProvider jwtProvider;
-            @Autowired
-            UserDetailsImpl userDetailsImpl;
+    @Autowired
+    JwtProvider jwtProvider;
+    @Autowired
+    UserDetailsImpl userDetailsImpl;
 
     @Override
     protected void doFilterInternal(HttpServletRequest request, HttpServletResponse response, FilterChain filterChain) throws ServletException, IOException {
