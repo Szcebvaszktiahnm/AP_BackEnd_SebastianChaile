@@ -1,6 +1,7 @@
+C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Repository\Rhys.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Entity\Rol.java
-C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Interface\IPersonaService.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\jwt\JwtProvider.java
+C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Entity\hys.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Repository\iUsuarioRepository.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Service\Seducacion.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Enums\RolNombre.java
@@ -16,12 +17,15 @@ C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\p
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Controller\Mensaje.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\WebConfig.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Entity\UsuarioPrincipal.java
+C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Controller\CHys.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Service\UsuarioService.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Dto\dtoEducacion.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Entity\Experiencia.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Service\RolService.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\SzkApplication.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\jwt\JwtTokenFilter.java
+C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\security\Service\Shys.java
+C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Dto\dtoHys.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Service\ImpPersonaService.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Controller\CExperiencia.java
 C:\Users\Colibri\Documents\GitHub\AP_BackEnd_SebastianChaile\src\main\java\com\portfolio\szk\Entity\Persona.java

@@ -1,5 +1,6 @@
 com\portfolio\szk\Repository\REducacion.class
 com\portfolio\szk\Dto\dtoEducacion.class
+com\portfolio\szk\Dto\dtoHys.class
 com\portfolio\szk\Dto\dtoExperiencia.class
 com\portfolio\szk\Dto\dtoPersona.class
 com\portfolio\szk\security\Enums\RolNombre.class
@@ -14,8 +15,8 @@ com\portfolio\szk\SzkApplication.class
 com\portfolio\szk\Entity\Educacion.class
 com\portfolio\szk\security\Entity\UsuarioPrincipal.class
 com\portfolio\szk\security\Repository\iRolRepository.class
-com\portfolio\szk\Interface\IPersonaService.class
 com\portfolio\szk\security\jwt\JwtEntryPoint.class
+com\portfolio\szk\Repository\Rhys.class
 com\portfolio\szk\Entity\Persona.class
 com\portfolio\szk\Repository\RExperiencia.class
 com\portfolio\szk\Controller\PersonaController.class
@@ -26,10 +27,13 @@ com\portfolio\szk\security\Controller\AuthController.class
 com\portfolio\szk\Controller\CEducacion.class
 com\portfolio\szk\Service\Seducacion.class
 com\portfolio\szk\security\MainSecurity.class
+com\portfolio\szk\Controller\CHys.class
 com\portfolio\szk\security\Dto\JwtDto.class
+com\portfolio\szk\security\Service\Shys.class
 com\portfolio\szk\security\jwt\JwtTokenFilter.class
 com\portfolio\szk\Controller\CExperiencia.class
 com\portfolio\szk\security\Entity\Rol.class
+com\portfolio\szk\Entity\hys.class
 com\portfolio\szk\security\Controller\Mensaje.class
 com\portfolio\szk\Service\SExperiencia.class
 com\portfolio\szk\security\Dto\NuevoUsuario.class
