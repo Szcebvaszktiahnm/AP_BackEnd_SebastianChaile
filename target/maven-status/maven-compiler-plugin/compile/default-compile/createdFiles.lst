@@ -9,7 +9,6 @@ com\portfolio\szk\security\Dto\LoginUsuario.class
 com\portfolio\szk\security\Service\UserDetailsImpl.class
 com\portfolio\szk\security\Entity\Usuario.class
 com\portfolio\szk\security\Service\UsuarioService.class
-com\portfolio\szk\WebConfig.class
 com\portfolio\szk\SzkApplication.class
 com\portfolio\szk\Entity\Educacion.class
 com\portfolio\szk\security\Entity\UsuarioPrincipal.class
