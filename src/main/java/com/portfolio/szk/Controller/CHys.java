@@ -29,6 +29,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author Colibri
  */
 @RestController
+//@CrossOrigin(origins="http://localhost:4200")
 //@CrossOrigin(origins={"https://hosting-angular-lsc.web.app","http://localhost:4200"})
 @CrossOrigin(origins="https://hosting-angular-lsc.web.app")
 @RequestMapping("/skill")
